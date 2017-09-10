@@ -11,8 +11,8 @@
       </transition>
     </div>
     <footer class="footer">
-      <p>Copyright © <a href='https://github.com/BUPT-HJM'>BUPT-HJM</a>&nbsp;&nbsp;2017 </p>
-      <p>Created by <a href="https://github.com/BUPT-HJM/vue-blog.git">vue-blog</a></p>
+      <p>Copyright © <a href='https://github.com/choukin'>CHOUKIN</a>&nbsp;&nbsp;2017 </p>
+      <p>Created by <a href="https://github.com/choukin/vue-blog.git">vue-blog</a></p>
     </footer>
   </div>
 </template>
